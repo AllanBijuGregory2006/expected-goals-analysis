@@ -3,8 +3,6 @@
 
 An ECON 570 group project examining how Premier League teams create, concede, and convert scoring chances. Using shot-level data from Understat, the analysis combines spatial visualization, player-position enrichment, and team- and player-level aggregation to explore defensive vulnerabilities and attacking efficiency.
 
-**Team:** Faraz Behlum, Bach Pham, Luke DeFrance, and Allan Biju Gregory — Group 21.
-
 ## Research questions
 
 - Where on the pitch do teams concede the most expected goals?
